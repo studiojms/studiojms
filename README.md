@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=studiojms" alt="studiojms" /> </p>
 
+<p align="left">
   <img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40px" />
@@ -20,6 +21,15 @@
   <img align="left" src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/webpack.svg" alt="Webpack" height="40px" />
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+</p>
+<br/>
+<br/>
+<br/>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=studiojms&show_icons=true" alt="studiojms" /> 
 </p>
