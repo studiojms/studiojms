@@ -3,27 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=studiojms" alt="studiojms" /> </p>
 
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/>
-</p>
+  <img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/typescript.svg" alt="Typescript" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/oracle.svg" alt="Oracle" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/sass.svg" alt="SASS" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/webpack.svg" alt="Webpack" height="40px" />
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=studiojms&show_icons=true" alt="studiojms" /> 
 </p>
 
 <p align="center">
-<a href="https://codepen.io/studiojms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="studiojms" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/jefferson-mariano-de-souza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jefferson-mariano-de-souza" height="20" width="20" /></a>
-<a href="https://www.behance.net/studiojms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="studiojms" height="20" width="20" /></a>
+<a href="https://codepen.io/studiojms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="studiojms" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/jefferson-mariano-de-souza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jefferson-mariano-de-souza" height="25" width="25" /></a>
+<a href="https://www.behance.net/studiojms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="studiojms" height="25" width="25" /></a>
 </p>
