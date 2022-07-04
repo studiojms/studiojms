@@ -8,10 +8,11 @@
   <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
-  <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
+  <img align="left" src="https://www.svgrepo.com/show/82333/java.svg" alt="Java" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/ruby.svg" alt="Ruby" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" height="40px" />
-  <img align="left" src="https://simpleicons.org/icons/amazondynamodb.svg" alt="AWS" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/amazondynamodb.svg" alt="AWS DynamoDB" height="40px" />
+  <img align="left" src="https://simpleicons.org/icons/awslambda.svg" alt="AWS Lambda" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/spring.svg" alt="Spring" height="40px" />
   <img align="left" src="https://simpleicons.org/icons/typescript.svg" alt="Typescript" height="40px" />
