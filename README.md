@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jefferson Mariano de Souza</h1>
-<h3 align="center">A passionate full-stack software developer who likes javascript, typescript and the java stack. Currently I work with node.js (javascript and typescript), python, ruby and React.js</h3>
+<h3 align="center">A passionate full-stack software developer who likes javascript, typescript and the java stack. Currently I work with node.js (javascript and typescript), python, ruby on rails, React and AWS services</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=studiojms" alt="studiojms" /> </p>
 
