@@ -50,6 +50,7 @@
 
 | Name | Description | Language | Website
 | --- | --- | --- | ---
+| [medusa-gamestore](https://github.com/studiojms/medusa-gamestore) | Game Store web front built using MedusaJS - Medusa Hackathon. Built using React+Typescript+Vite+Tailwind CSS | Typescript | 
 | [microfrontends-with-react](https://github.com/studiojms/microfrontends-with-react) | A sample project using react and webpack module federation to work with micro frontends | JavaScript | 
 | [angular-pics](https://github.com/studiojms/angular-pics) | An Angular 7 sample application about pictures | TypeScript | 
 | [recycollect](https://github.com/studiojms/recycollect) | A full stack javascript (backend, frontend and mobile) project about recycling and waste collecting | TypeScript | 
