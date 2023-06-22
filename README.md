@@ -34,13 +34,15 @@
 <br/>
 <br/>
 <br/>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=studiojms&show_icons=true" alt="studiojms" /> 
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=studiojms&show_icons=true&hide_rank=true&layout=donut" alt="studiojms" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiojms&layout=compact" alt="studiojms most used languages" /> 
 </p>
 
+
 <p align="center">
-<a href="https://codepen.io/studiojms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="studiojms" height="25" width="25" /></a>
 <a href="https://linkedin.com/in/jefferson-mariano-de-souza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jefferson-mariano-de-souza" height="25" width="25" /></a>
+<a href="https://codepen.io/studiojms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="studiojms" height="25" width="25" /></a>
 <a href="https://www.behance.net/studiojms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="studiojms" height="25" width="25" /></a>
 </p>
 
