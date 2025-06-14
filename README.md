@@ -63,7 +63,7 @@ I’ve worked across diverse stacks—from Java with OracleDB, to Ruby on Rails 
 - 🔍 Always learning and improving — passionate about building meaningful software
 
 Currently working with:
-> **TypeScript (NestJS + React/NextJS), PostgreSQL, Kafka, AWS, Microservices**
+**TypeScript (NestJS + React/NextJS), PostgreSQL, Kafka, AWS, Microservices**
 
 ---
 
