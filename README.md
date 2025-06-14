@@ -79,7 +79,7 @@ Currently working with:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=studiojms&show_icons=true&hide_rank=true&layout=donut" alt="studiojms GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiojms&layout=compact" alt="studiojms Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiojms&layout=compact" alt="studiojms Languages" /> -->
 </p>
 
 ---
