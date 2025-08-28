@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jefferson
 
-I'm **Jefferson Mariano de Souza**, a passionate **Full-Stack Software Developer** with over **19 years of experience** building scalable, efficient, and robust software solutions.
+I am **Jefferson Mariano de Souza**, a passionate **Full-Stack Software Developer** with over **19 years of experience** building scalable, efficient, and robust software solutions.
 
 I’ve worked across diverse stacks—from Java with OracleDB, to Ruby on Rails with AWS, to Python/Django with Redshift, and now deep in the TypeScript ecosystem using **NestJS**, **React**, and **NextJS**.
 
