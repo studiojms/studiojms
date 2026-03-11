@@ -4,6 +4,8 @@ I am **Jefferson Mariano de Souza**, a passionate **Full-Stack Software Develope
 
 I’ve worked across diverse stacks—from Java with OracleDB, to Ruby on Rails with AWS, to Python/Django with Redshift, and now deep in the TypeScript ecosystem using **NestJS**, **React**, and **NextJS**.
 
+Check my updated resume [here](https://studiojms.github.io/resume/)
+
 ---
 
 ## 🚀 Tech Stack
